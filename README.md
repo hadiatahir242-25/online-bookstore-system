@@ -25,8 +25,6 @@ online-bookstore-system/
 ├── README.md
 ├── src/
 ├── docs/
-├── screenshots/
-└── assets/
 ```
 
 ## Getting Started
